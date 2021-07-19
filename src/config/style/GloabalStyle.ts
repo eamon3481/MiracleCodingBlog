@@ -12,6 +12,12 @@ ${reset};
 body{
     display:flex;
     justify-content: center;
+    width: 100%;
+}
+
+#root{
+    padding: 3rem 2rem;
+    max-width: 720px; 
 }
 
 a{
